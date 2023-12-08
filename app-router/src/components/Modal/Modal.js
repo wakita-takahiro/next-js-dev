@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import styles from "./Modal.module.scss";
 import Portal from "./Portal";
+import styles from "./modal.module.scss";
 
 const Modal = props => {
   const [isMouseDown, setIsMouseDown] = useState(false);

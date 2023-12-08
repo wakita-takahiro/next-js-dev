@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Panel.module.scss";
+import styles from "./panel.module.scss";
 
 const Panel = props => {
   const submit = e => {

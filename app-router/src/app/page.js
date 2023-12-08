@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import UserList from './users/userlist';
+import UserList from './users/UserList';
 
 export default function Home() {
   return (
